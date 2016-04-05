@@ -4,6 +4,11 @@ is hosted @ http://ili-codes.github.io.
 ### Info
 The website is hosted by and made with GitHub Pages. My personal website is hosted with Weebly and has a custom URL thanks to http://freedns.afraid.org. I used my HTML skillz (lol 1337speak) to make the theme show a menu. 
 
+### Subpages (project pages)
+AppleScript-Utils (aka Do It!) - http://ili-codes.github.io/applescript-utils/
+
+that's it for now.
+
 ### So I wanna visit it. Where do I go?
 http://ili-codes.github.io
 
