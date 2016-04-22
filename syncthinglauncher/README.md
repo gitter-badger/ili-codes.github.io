@@ -1,4 +1,3 @@
-hack
-====
+# SyncthingLauncher's website
 
-Hack by GitHub Pages
+using the "hack" theme by GitHub Pages.
