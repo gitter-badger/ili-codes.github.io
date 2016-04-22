@@ -5,7 +5,7 @@ is hosted @ http://ili-codes.github.io.
 The website is hosted by and made with GitHub Pages. A mirror link is available @ http://ili-codes.us.to .
 
 ### Other Websites (hosted by GitHub)
-AppleScript-Utils (aka Do It!) - http://asutils.us.to
+SyncthingLauncher - http://syncthinglauncher.us.to
 
 LaunchAJar - http://launchajar.us.to
 
