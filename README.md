@@ -2,7 +2,7 @@
 is hosted @ http://ili-codes.github.io. 
 
 ### Info
-The website is hosted by and made with GitHub Pages. A mirror link is available @ http://ili-codes.us.to .
+The website is hosted by GitHub Pages and made with the Aerial template from HTML5UP.
 
 ### Other Websites (hosted by GitHub)
 SyncthingLauncher - http://syncthinglauncher.us.to
